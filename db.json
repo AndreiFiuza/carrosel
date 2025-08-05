@@ -1,0 +1,33 @@
+{
+    "fotos": [
+      {
+        "id": "1",
+        "imagem": "https://drive.google.com/file/d/1ALbIbXg48yZZhoLfIDjqxGD07Us1Xydl/view?usp=drive_link",
+        "legenda": "tipos de motores",
+        "data": "31/07/2025",
+        "postId": "1"
+      },
+      {
+        "id": "2",
+        "imagem": "https://drive.google.com/file/d/1QSs_KQhhHLKv3Siu8W-acYACnQfrIPF0/view?usp=drive_link",
+        "legenda": "auditorio",
+        "data": "01/08/2025",
+        "postId": "2"
+      },
+      {
+        "id": "3",
+        "imagem": "https://drive.google.com/file/d/1lyj_y4IL80mIm2HVpkTRjpcL0o7fwJdO/view?usp=drive_link",
+        "legenda": "oficina do senai",
+        "data": "01/08/2025",
+        "postId": "2"
+      },
+      {
+        "id": "4",
+        "imagem": "https://drive.google.com/file/d/1Zue2MdJmJOuYqgeqxxgn_Nh3L70rbplW/view?usp=drive_link",
+        "legenda": "Bebedouro com águas cristalinas",
+        "data": "01/08/2025",
+        "postId": "2"
+      }
+    ]
+  }
+  
